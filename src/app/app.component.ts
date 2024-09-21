@@ -9,7 +9,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.component.scss'
 })
 export class AppComponent {
-  title = 'id-card-portfolio';
+  title = 'Aadhar | Resume Card';
   skills:any =[
     "Angular", "React","Java","Spring Boot","SQL","MongoDB","Spring Security"
   ]
