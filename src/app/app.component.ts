@@ -10,4 +10,8 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'id-card-portfolio';
+  skills:any =[
+    "Angular", "React","Java","Spring Boot","SQL","MongoDB","Spring Security"
+  ]
+  mail ="thudumswamy786@gmail.com"
 }
